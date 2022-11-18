@@ -1,0 +1,3 @@
+writer.sh : write a text string to a specified file. Run without arguments for details.
+
+finder.sh : find a text string in a specified file. Run without arguments for details.
